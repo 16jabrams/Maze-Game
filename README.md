@@ -9,7 +9,7 @@ The directions for the game are as follows:
 - The incorrect steps are counted and the total number of wrong steps is displayed upon winning the game.
 - If the player reaches the end, the game will end and a winning screen will be displayed
 - To display the correct path before reaching the end, click b to display it using breadth first search or d using depth first search 
-- To restart the game with another random maze use r.
+- To restart the game with another random maze use r
 
 To run the game in Eclipse: 
 - Download the code as a zip
